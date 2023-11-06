@@ -4,7 +4,10 @@ Authors: Heng Deng, Kianoosh Sattari, Yunchao Xie, Ping Liao, Zheng Yan, Jian Li
 Year: 2020
 Journal: Nature Communications
 
+
 ## Overview
+
+![Scheme of the prediction model](https://github.com/sattarik/Laser-Reprogramming-Magnetic-Anisotropy/blob/main/SimulationVSexperiment.png)
 
 The Finite Element Analysis (FEA) simulations in this repository are conducted using the Abaqus software. This repository contains the custom subroutine and other relevant files required for the simulations.
 
